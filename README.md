@@ -55,3 +55,9 @@ A modern, fully responsive **hospital and healthcare website** built using **HTM
 
 ## 🗂️ Folder Structure
 
+medicare-hospital-website/
+│
+├── index.html
+├── style.css
+├── script.js
+└── img/ Favicon Icon
