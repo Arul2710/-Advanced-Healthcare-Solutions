@@ -2,7 +2,7 @@
 
 A modern, fully responsive **hospital and healthcare website** built using **HTML, CSS, and JavaScript**. Designed to showcase medical services, specialist doctors, appointment booking, and more — this project is ideal for real hospital use or for frontend portfolio showcase.
 
-![Website Screenshot](https://i.ibb.co/Dtbsvhz/medicare-logo.png)
+
 
 ---
 
